@@ -15,7 +15,7 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 >•  Informatie is een maat voor gereduceerde onzekerheid over beschikbare data. Bijvoorbeeld met behulp van een weermodel kan op basis van meteorologische data een voorspelling gedaan worden over het verloop van de temperatuur voor de komende week. Dus het weermodel structureert en presenteert "betekenisloze" data zoals temperatuur en luchtdruk op een voor mensen betekenisvolle wijze
 -->
 
-<font size="8"> **DataLab**  <br> **AI SusTech**</font>
+<font size="16"> **DataLab**  <br> **AI SusTech**</font>
 
 
 
