@@ -7,7 +7,7 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 ***********
 
 
-<img align="right" width="300" height="300" src="">
+<img align="right" width="300" height="300" src="https://images.hogeschoolrotterdam.nl/Blob/20f74302d79e40ddad784c46c93d7056/0697088e6a2a484082021fb7a96b978f.jpg?mode=crop&quality=90&format=jpg&width=1869&height=539">
 
 <!--
 >• Data verwijst naar gegevens die veelal worden verzameld op basis van metingen met behulp van meetsystemen en/of observaties gedaan door mensen.
