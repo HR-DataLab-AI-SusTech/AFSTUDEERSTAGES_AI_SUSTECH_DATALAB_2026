@@ -138,8 +138,6 @@ Er zijn drie verschillende toepassingsgerichte Data Science thema's waarop stude
  *––NLP––* <br> Natuurlijke Taalverwerking | Ontwerpen van FAIR data products die grootschalige taalmodellen *––zoals BERT, BLOOM en ChatGPT––* kunnen benutten voor de analyse van vrije-teksten. |  ["text mining & wrangling" van vrije tekst](https://github.com/robvdw/Decision-Support-Systems-In-Allied-Healthcare) afkomstig van zorgverleners. 
 *––DF––* <br> Data Fabric  | Benutten van Data Science tools voor het creëren van een Data Hub voor IoT  in de vorm van een Digitale data lake. | [Anaconda in combinatie met Jupyter Notebooks](https://github.com/robvdw/Creating-AI-Data-Products-Using-Jupyter-Notebooks).
 
-
-
 ### Wat wij bieden
         - Een uitdagende plek binnen een groeiend ecosysteem van datawetenschappers en domeinexperts.
 
