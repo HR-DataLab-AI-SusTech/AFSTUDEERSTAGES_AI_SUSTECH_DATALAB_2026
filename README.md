@@ -15,13 +15,12 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 >•  Informatie is een maat voor gereduceerde onzekerheid over beschikbare data. Bijvoorbeeld met behulp van een weermodel kan op basis van meteorologische data een voorspelling gedaan worden over het verloop van de temperatuur voor de komende week. Dus het weermodel structureert en presenteert "betekenisloze" data zoals temperatuur en luchtdruk op een voor mensen betekenisvolle wijze
 -->
 
-<font size="16"> **DataLab**  <br> **AI SusTech**</font>
 
-
+<font size="20"> **DataLab**  <br> **AI SusTech**</font>
 
 ***********
 
-<font size="6"> **Context & Einddoel**</font>
+## **Context & Einddoel**
 
 Data Science  **––DS––**  is een interdisciplinair vakgebied gericht op het extraheren van betekenisvolle informatie uit datasets.
 Het kan ingezet worden als praktijkgerichte  kennisbasis voor  data-gedreven besluitvorming & innovatie.
