@@ -7,7 +7,7 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 ***********
 
 
-<img align="right" width="300" height="300" src="https://avatars.githubusercontent.com/u/115706761?s=400&u=7c6cae892816e172b0b7eef99f2d32adb948c6ad&v=4">
+<img align="right" width="300" height="300" src="">
 
 <!--
 >• Data verwijst naar gegevens die veelal worden verzameld op basis van metingen met behulp van meetsystemen en/of observaties gedaan door mensen.
@@ -15,7 +15,7 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 >•  Informatie is een maat voor gereduceerde onzekerheid over beschikbare data. Bijvoorbeeld met behulp van een weermodel kan op basis van meteorologische data een voorspelling gedaan worden over het verloop van de temperatuur voor de komende week. Dus het weermodel structureert en presenteert "betekenisloze" data zoals temperatuur en luchtdruk op een voor mensen betekenisvolle wijze
 -->
 
-<font size="8"> **PROMETHEUS <br /> DATA SCIENCE LAB**</font>
+<font size="8"> **DataLab**  <br> **AI SusTech**</font>
 
 
 
@@ -33,7 +33,7 @@ AI (kunstmatige intelligentie) is een toegepaste wetenschap gericht op het autom
 -->
 
 
-Exemplarisch voor data-gedreven innovatie anno 2023 is de lerende machine **––ML––** genaamd [ChatGPT](https://chat.openai.com/). Een state-of-the-art, grootschalig taalmodel **––LLM––** dat gebruik maakt van natuurlijke taalverwerkenden **––NLP––** AI-technologie. Het is gevoed met meer dan 8 miljoen unieke dialogen.
+Exemplarisch voor data-gedreven innovatie anno 2026 is de lerende machine **––ML––** genaamd [ChatGPT](https://chat.openai.com/). Een state-of-the-art, grootschalig taalmodel **––LLM––** dat gebruik maakt van natuurlijke taalverwerkenden **––NLP––** AI-technologie. Het is gevoed met meer dan 8 miljoen unieke dialogen.
 
 
 <img align="left" width="200" height="300" src="https://user-images.githubusercontent.com/684692/211400087-a93ef037-e191-4356-8fc2-4773e247ef9c.jpg">
@@ -68,7 +68,7 @@ Een open-source replica [––Open assistent––](https://github.com/LAION-AI
 ```mermaid
 flowchart LR
 
-A([Doel het Prometheus Data Science-lab is de totstandbrenging van een data fabric.])
+A([Doel van het DataLab AI Sustech is de totstandbrenging van een data fabric.])
 ```
 
 </center>
@@ -108,41 +108,65 @@ Het kan worden ingezet om voorspellingen of beslissingen te maken op basis van r
 -->
 
 
-<font size="6"> **Afstuderen in het Prometheus Data Science Lab**</font>
+<font size="6"> **Afstuderen in het DataLab AI Sustech**</font>
 
 
 
-Het Prometheus Data Science lab richt zich op het betrouwbaar & verantwoord inzetten van open-source data producten.
+Het DataLab AI Sustech richt zich op het betrouwbaar & verantwoord inzetten van open-source data producten.
 
 Data Science is een interdisciplinair vakgebied, dat betekenisvolle inzichten creëert uit ongestructureerde, heterogene datasets, zoals: teksten, images of videofilmpjes afkomstig van het world-wide-web *––denk aan sociale media en discussiefora––* maar kan ook bestaan uit IoT sensor-data en/of logfiles.
 
 Data producten zijn software-applicaties ontwikkeld door data-wetenschappers met behulp van AI-technologie. Ze zijn ontworpen met als doel om inzichten, aanbevelingen of voorspellingen aan eindgebruikers te leveren op basis van ongestructureerde, heterogene datasets. Data producten bevatten interactieve elementen, zoals dashboards of visualisaties, zodat niet-technisch onderlegde eindgebruikers data in real-time kunnen verkennen.
 
-Het Prometheus Lab werkt samen met opdrachtgevers aan data-producten om de doorzoekbaarheid van researchdata te vergroten, causale relaties te kunnen opsporen en/of patronen te kunnen blootleggen. Daarbij ligt de focus op het laagdrempelig & verantwoord inzetten van AI-technologie. Centraal uitgangspunt is het doorlichten van de gehele keten van informatieverwerking *––data pipeline––*, van ruwe data tot de menselijke beslissing.
+Het DataLab AI Sustech werkt samen met opdrachtgevers aan data-producten om de doorzoekbaarheid van researchdata te vergroten, causale relaties te kunnen opsporen en/of patronen te kunnen blootleggen. Daarbij ligt de focus op het laagdrempelig & verantwoord inzetten van AI-technologie. Centraal uitgangspunt is het doorlichten van de gehele keten van informatieverwerking *––data pipeline––*, van ruwe data tot de menselijke beslissing.
 <br />
 
 ***********
 
 <font size="6"> **Afstudeer Thema's**</font>
 
-Wij vormen een onafhankelijke organisatorische eenheid binnen de Hogeschool Rotterdam. Onze expertise, onderzoek en workshops leveren een belangrijke bijdrage aan de educatie van Data Science. Bij alles wat we doen, draait het om kennisdeling te stimuleren  over het verantwoord toepassen van AI-technologie.
+Wij vormen een onafhankelijke organisatorische eenheid binnen de Hogeschool Rotterdam, gevestigd op de RDM Campus als Datalab AI SusTech. Onze expertise richt zich op het ontwerpen, bouwen en hosten van geavanceerde digital twins voor duurzame technologieën, met bijdragen aan toegepast onderzoek in AI, logistiek, asset management en circulaire energietransitie binnen het Centre of Expertise HRTech. Bij alles wat we doen, draait het om kennisdeling te stimuleren over het verantwoord toepassen van AI-technologie, inclusief simulatie en optimalisatie van systemen zoals binnenvaart en energie.
+​
 
-Er zijn drie verschillende toepassingsgerichte Data Science thema's waarop studenten kunnen afstuderen:
+Er zijn drie verschillende toepassingsgerichte Data Science thema's waarop studenten kunnen afstuderen, vanaf september 2026 stage- en afstudeerplaatsen aangeboden aan opleidingen zoals RMI, EAS, IGO, CMI en RBS:<br>
+
+
 
 | THEMA  | DOEL | Toepassing
 | ------------- | ------------- | ---------- |
-*––ML––* <br> Machine Learning  | Ontwerpen van FAIR data products die het benutten van AI-modellen toegankelijk maken voor niet-technisch onderlegde eindgebruikers.  |  [Matlab, Regression Learner applicatie](https://github.com/robvdw/MATLAB_REGRESSION_LEARNER). 
- *––NLP––* <br> Natuurlijke Taalverwerking | Ontwerpen van FAIR data products die grootschalige taalmodellen *––zoals BERT, BLOOM en ChatGPT––* kunnen benutten voor de analyse van vrije-teksten. |  ["text mining & wrangling" van klinische vrije tekst](https://github.com/robvdw/Decision-Support-Systems-In-Allied-Healthcare) afkomstig van zorgverleners. 
-*––DF––* <br> Data Fabric  | Benutten van Data Science tools voor het creëren van een Data Fabric. | [Anaconda in combinatie met Jupyter Notebooks](https://github.com/robvdw/Creating-AI-Data-Products-Using-Jupyter-Notebooks).
+*DT <br> –– Digital Twins ––*  | Ontwerpen van FAIR data products en digital twins die AI-modellen benutten voor simulatie en optimalisatie van duurzame systemen, zoals binnenvaartcorridors (Path2Zero) en windmolens (People). |  [Matlab Simulink/  <br> Prometheus + Grafana  / <br> Game Engines (UNREAL / UNITY) / <br> Siemens Simcenter ](https://github.com/robvdw/MATLAB_REGRESSION_LEARNER). 
+ *––NLP––* <br> Natuurlijke Taalverwerking | Ontwerpen van FAIR data products die grootschalige taalmodellen *––zoals BERT, BLOOM en ChatGPT––* kunnen benutten voor de analyse van vrije-teksten. |  ["text mining & wrangling" van vrije tekst](https://github.com/robvdw/Decision-Support-Systems-In-Allied-Healthcare) afkomstig van zorgverleners. 
+*––DF––* <br> Data Fabric  | Benutten van Data Science tools voor het creëren van een Data Hub voor IoT  in de vorm van een Digitale data lake. | [Anaconda in combinatie met Jupyter Notebooks](https://github.com/robvdw/Creating-AI-Data-Products-Using-Jupyter-Notebooks).
 
 
 
-Wij nodigen studenten uit om ervaring opdoen in een groep van enthousiaste, gedreven Data Scientists van het HR-brede Programma voor AI & Ethiek. 
+### Wat wij bieden
+        - Een uitdagende plek binnen een groeiend ecosysteem van datawetenschappers en domeinexperts.
 
-Beschik jij over:
-| | |
-| ------------- | ------------- |
-Sterke affiniteit met AI-technologie | Denk aan Machine Learning en Deep Learning, waarbij je je bewust bent van de randvoorwaarden, kansen en beperkingen.
-Actieve beheersing van een hogere programmeertaal |  *––bijvoorkeur Python––* inclusief praktische kennis van data Science libraries 
+        - Toegang tot een Trusted Research Environment (TRE) en krachtige ICT-infrastructuur (GPU-enabled compute).
 
-Mail dan naar willi@hr.nl met als subject: *––Afstuderen in het Prometheus Data Science Lab––*
+        - Begeleiding door ervaren professionals uit het DataLab-team.
+
+        - Een werkplek op de inspirerende RDM Campus, dé plek voor technische innovatie.
+
+        - De kans om je werk te presenteren tijdens grote events, zoals onze officiële opening op 14 april 2026.
+
+
+### Jouw Profiel
+        - 4de-jaars student Creative Media and Game Technologies (CMGT).
+
+        - Affiniteit met Gamming en Gaming Technologie zoals Game Engines.
+
+        - Vaardig in 3D-modelleren en/of technisch programmeren.
+
+        - Interesse in data-architectuur en hoe gamesoftware kan bijdragen aan maatschappelijke transities (duurzame delta, smart cities).
+
+        - Zelfstandig, proactief en een "open cultuur" mindset voor kennisdeling.
+
+
+Wij nodigen alle 4de jaars studenten uit om ervaring opdoen in een groep van enthousiaste, gedreven Data Scientists van het DataLab AI Sustech. 
+
+
+Mail dan naar willi@hr.nl met als subject: *––Afstuderen in het DataLab AI Sustech––*
+
+
