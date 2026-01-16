@@ -15,8 +15,7 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 >•  Informatie is een maat voor gereduceerde onzekerheid over beschikbare data. Bijvoorbeeld met behulp van een weermodel kan op basis van meteorologische data een voorspelling gedaan worden over het verloop van de temperatuur voor de komende week. Dus het weermodel structureert en presenteert "betekenisloze" data zoals temperatuur en luchtdruk op een voor mensen betekenisvolle wijze
 -->
 
-
-<font size="20"> **DataLab**  <br> **AI SusTech**</font>
+# **DataLab**  <br> **AI SusTech**
 
 ***********
 
@@ -60,7 +59,7 @@ Een open-source replica [––Open assistent––](https://github.com/LAION-AI
 <br/>
 
 
-<font size="20"> **Data Fabric**</font>
+## **Data Fabric**<
 
 <center>
 
@@ -86,7 +85,7 @@ Het kan worden ingezet om voorspellingen of beslissingen te maken op basis van r
 <br/>
 
 ******
-<font size="6"> **Data Science Tools**</font>
+## **Data Science Tools**
 
 
 ![dataviztools](https://user-images.githubusercontent.com/684692/211392041-460e0c3d-94f7-43e4-abb8-75f899c7af17.png)
@@ -107,7 +106,7 @@ Het kan worden ingezet om voorspellingen of beslissingen te maken op basis van r
 -->
 
 
-<font size="6"> **Afstuderen in het DataLab AI Sustech**</font>
+## **Afstuderen in het DataLab AI Sustech**
 
 
 
@@ -122,7 +121,7 @@ Het DataLab AI Sustech werkt samen met opdrachtgevers aan data-producten om de d
 
 ***********
 
-<font size="6"> **Afstudeer Thema's**</font>
+## **Afstudeer Thema's**
 
 Wij vormen een onafhankelijke organisatorische eenheid binnen de Hogeschool Rotterdam, gevestigd op de RDM Campus als Datalab AI SusTech. Onze expertise richt zich op het ontwerpen, bouwen en hosten van geavanceerde digital twins voor duurzame technologieën, met bijdragen aan toegepast onderzoek in AI, logistiek, asset management en circulaire energietransitie binnen het Centre of Expertise HRTech. Bij alles wat we doen, draait het om kennisdeling te stimuleren over het verantwoord toepassen van AI-technologie, inclusief simulatie en optimalisatie van systemen zoals binnenvaart en energie.
 ​
