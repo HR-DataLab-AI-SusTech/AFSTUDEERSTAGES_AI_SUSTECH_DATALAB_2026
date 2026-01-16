@@ -59,18 +59,7 @@ Een open-source replica [––Open assistent––](https://github.com/LAION-AI
 <br/>
 
 
-## **Data Fabric**<
-
-<center>
-
-```mermaid
-flowchart LR
-
-A([Doel van het DataLab AI Sustech is de totstandbrenging van een data fabric.])
-```
-
-</center>
-<br />
+## **Data Fabric**
 
 Een Data Fabric ––DF–– biedt laagdrempelige toegang tot Data Science tools om zo selfservice analyse mogelijk te maken van researchdata. Door verbinding van Computational Thinking skills *––waarover Data Scientists beschikken––* met infrastructurele kennis *––waarover  Data Engineers beschikken––* is een data fabric agnostisch ten aanzien van data-omgevingen, -processen, -nut en -locatie. 
 
