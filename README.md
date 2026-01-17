@@ -19,7 +19,7 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 
 ***********
 
-## **Context & Einddoel**
+## **Context**
 
 Data Science  **––DS––**  is een interdisciplinair vakgebied gericht op het extraheren van betekenisvolle informatie uit datasets.
 Het kan ingezet worden als praktijkgerichte  kennisbasis voor  data-gedreven besluitvorming & innovatie.
