@@ -167,7 +167,11 @@ https://path2zero.iwtprojects.eu/
 
 **Beschrijving:**
 
-Ontwikkel een realistische 3D-simulatie met game engines zoals Unity of Unreal Engine voor de PATH2ZERO multi-level digital twin (WP2). Visualiseer real-time emissies, brandstofverbruik en infrastructuur (bijv. bunkeringstations, sluizen) in een interactieve 3D-omgeving van Nederlandse binnenscheepvaartcorridors (Waal, Merwede). Integreer data uit RWS (AIS, waterdiepte) en OpenTNSim-modellen voor scenario-exploratie.
+Ontwikkel een realistische 3D-simulatie met game engines zoals Unity of Unreal Engine voor de PATH2ZERO multi-level digital twin (WP2). Visualiseer real-time emissies, brandstofverbruik en infrastructuur gedurende een standaard binevaart route  (bijv. bunkeringstations, sluizen) in een interactieve 3D-omgeving van Nederlandse binnenscheepvaartcorridors (Waal, Merwede). Integreer data uit RWS (AIS, waterdiepte) en OpenTNSim-modellen voor scenario-exploratie.
+
+
+
+<img align="right" width="600" height="900" src="binnenvaart_route.jpeg">
 
 **Waarom game engines?**
 
