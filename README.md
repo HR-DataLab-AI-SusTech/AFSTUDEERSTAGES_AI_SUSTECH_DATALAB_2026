@@ -180,8 +180,8 @@ Ontwikkel een realistische 3D-simulatie met game engines zoals Unity of Unreal E
 
 **Onderzoeksvragen:**
 
-- Hoe vertaal je DT-data naar realistische interacties (golven voor weerstand)?
-- Welke engine-technieken boosten stakeholder engagement?
+- Hoe vertaal je DT-data naar realistische interacties?
+- Welke UX/GUI/engine-technieken boosten stakeholder engagement?
 - Hoe render je dynamische data performant (VR-ready)?
 
 **Eisen \& Deliverables:**
@@ -196,18 +196,18 @@ Ontwikkel een realistische 3D-simulatie met game engines zoals Unity of Unreal E
 - W5-12: Prototyping \& tests.
 - W13-20: Iteratie \& verdediging.
 
-**Begeleiding:** CMGT-docent + Dhiraj Kumar (TU Delft).
+**Begeleiding:** Data Scientist AI SusTecH DataLab.
 
 ### **Wat wij bieden**
 
 - Uitdagende plek op RDM Campus met GPU-infra \& TRE.
-- Begeleiding door DataLab-team en domeinexperts.
+- Begeleiding door DataLab-team en domeinexperts (PhD students).
 - Presentatie op events (opening 14 april 2026).
 
 
 ### **Jouw Profiel**
 
-- 4e-jaars CMGT met game engine skills (Unity/Unreal).
+- 4e-jaars CMGT met game engine skills (Unity/Unreal) en/of UI/UX/GUI experience.
 - Affiniteit met 3D-modelling, data-vis \& duurzame tech.
 - Proactief, open mindset.
 
