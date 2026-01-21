@@ -167,15 +167,13 @@ https://path2zero.iwtprojects.eu/
 
 **Beschrijving:**
 
-Ontwikkel een realistische 3D-simulatie met game engines zoals Unity of Unreal Engine voor de PATH2ZERO multi-level digital twin ([Werkpakket 2](https://path2zero.iwtprojects.eu/)). Visualiseer real-time emissies, brandstofverbruik en infrastructuur gedurende een standaard binevaart route  (bijv. bunkeringstations, sluizen) in een interactieve 3D-omgeving van Nederlandse binnenscheepvaartcorridors (Waal, Merwede). Integreer data uit RWS (AIS, waterdiepte) en OpenTNSim-modellen voor scenario-exploratie.
-
-
+Ontwikkel een realistische 3D-simulatie met game engines zoals Unity of Unreal Engine voor de PATH2ZERO multi-level digital twin ([Werkpakket 2 (WP2)](https://path2zero.iwtprojects.eu/)). Visualiseer real-time emissies, brandstofverbruik en infrastructuur gedurende een standaard binnenvaartroute  (bijv. bunkeringstations, sluizen) in een interactieve 3D-omgeving van Nederlandse binnenscheepvaartcorridors (Waal, Merwede, hollands diep etc). Uitgangspunt is dat het door de Game Engine  gegenereerde 3D-model interoperabel is met  data uit RWS (AIS, waterdiepte) en OpenTNSim-modellen voor scenario-exploratie. Dit laaste wordt ondersteund door PHD studenten en Data Scietist uit het AI SusTech DataLab.
 
 <img align="right" width="600" height="900" src="binnenvaart_route.jpeg">
 
 **Waarom game engines?**
 
-- **Schippers:** First-person navigatie in hun vaaromgeving; direct inzicht in zero-emissie impact (bereik, wachttijden).
+- **Schippers:** Direct inzicht krijgen in zero-emissie impact (bereik, wachttijden).
 - **Beleidsmakers/RWS:** 3D-visualisatie van hotspots en infrastructuur voor robuuste planning.
 - **Onderzoekers:** Validatie van WP2-modellen via immersieve living labs.
 - **CMGT-student:** Uitdaging met 3D-assets, real-time rendering, UX voor pro's – perfect voor portfolio.
