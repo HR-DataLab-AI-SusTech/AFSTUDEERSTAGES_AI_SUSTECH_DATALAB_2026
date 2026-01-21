@@ -139,7 +139,7 @@ Er zijn drie verschillende toepassingsgerichte Data Science thema's waarop stude
 
 
 ### Jouw Profiel
-        - 4de-jaars student Creative Media and Game Technologies (CMGT).
+        - 4de-jaars student Creative Media and Game Technologies (CMGT) of vergelijkbaar.
 
         - Affiniteit met Gamming en Gaming Technologie zoals Game Engines.
 
@@ -153,6 +153,65 @@ Er zijn drie verschillende toepassingsgerichte Data Science thema's waarop stude
 Wij nodigen alle 4de jaars studenten uit om ervaring opdoen in een groep van enthousiaste, gedreven Data Scientists van het DataLab AI Sustech. 
 
 
-Mail dan naar willi@hr.nl met als subject: *––Afstuderen in het DataLab AI Sustech––*
+<br><br>
 
+---
+---
+
+# **Specifieke Afstudeeropdracht: Realistische 3D-simulatie voor PATH2ZERO Digital Twin (WP2)**
+https://path2zero.iwtprojects.eu/
+---
+---
+
+<br>
+
+**Beschrijving:**
+
+Ontwikkel een realistische 3D-simulatie met game engines zoals Unity of Unreal Engine voor de PATH2ZERO multi-level digital twin (WP2). Visualiseer real-time emissies, brandstofverbruik en infrastructuur (bijv. bunkeringstations, sluizen) in een interactieve 3D-omgeving van Nederlandse binnenscheepvaartcorridors (Waal, Merwede). Integreer data uit RWS (AIS, waterdiepte) en OpenTNSim-modellen voor scenario-exploratie.
+
+**Waarom game engines?**
+
+- **Schippers:** First-person navigatie in hun vaaromgeving; direct inzicht in zero-emissie impact (bereik, wachttijden).
+- **Beleidsmakers/RWS:** 3D-visualisatie van hotspots en infrastructuur voor robuuste planning.
+- **Onderzoekers:** Validatie van WP2-modellen via immersieve living labs.
+- **CMGT-student:** Uitdaging met 3D-assets, real-time rendering, UX voor pro's – perfect voor portfolio.
+
+**Onderzoeksvragen:**
+
+- Hoe vertaal je DT-data naar realistische interacties (golven voor weerstand)?
+- Welke engine-technieken boosten stakeholder engagement?
+- Hoe render je dynamische data performant (VR-ready)?
+
+**Eisen \& Deliverables:**
+
+- **Tech:** Unity/Unreal, API-integratie, responsive 3D-scenes.
+- **Doelgroep:** 5-10 testers (schippers, RWS).
+- **Output:** Prototype, usertests, verslag (5 CMGT-kwalificaties), demo.
+
+**Planning (20 weken):**
+
+- W1-4: Onderzoek \& concept.
+- W5-12: Prototyping \& tests.
+- W13-20: Iteratie \& verdediging.
+
+**Begeleiding:** CMGT-docent + Dhiraj Kumar (TU Delft).
+
+### **Wat wij bieden**
+
+- Uitdagende plek op RDM Campus met GPU-infra \& TRE.
+- Begeleiding door DataLab-team en domeinexperts.
+- Presentatie op events (opening 14 april 2026).
+
+
+### **Jouw Profiel**
+
+- 4e-jaars CMGT met game engine skills (Unity/Unreal).
+- Affiniteit met 3D-modelling, data-vis \& duurzame tech.
+- Proactief, open mindset.
+
+---
+
+Mail [willi@hr.nl](mailto:willi@hr.nl) met subject: **Afstuderen DataLab AI SusTech – PATH2ZERO 3D DT**.
+
+---
 
