@@ -96,7 +96,7 @@ Het kan worden ingezet om voorspellingen of beslissingen te maken op basis van r
 -->
 
 
-## **Afstuderen in het DataLab AI Sustech**
+## **Afstuderen / Stagelopen in het DataLab AI Sustech**
 
 
 
@@ -122,7 +122,7 @@ Er zijn drie verschillende toepassingsgerichte Data Science thema's waarop stude
 
 | THEMA  | DOEL | Toepassing
 | ------------- | ------------- | ---------- |
-*DT <br> –– Digital Twins ––*  | Ontwerpen van FAIR data products en digital twins die AI-modellen benutten voor simulatie en optimalisatie van duurzame systemen, zoals binnenvaartcorridors (Path2Zero) en windmolens (People). |  [Matlab Simulink/  <br> Prometheus + Grafana  / <br> Game Engines (UNREAL / UNITY) / <br> Siemens Simcenter ](https://github.com/robvdw/MATLAB_REGRESSION_LEARNER). 
+*––DT–– <br> Digital Twins*  | Ontwerpen van FAIR data products en digital twins die AI-modellen benutten voor simulatie en optimalisatie van duurzame systemen, zoals binnenvaartcorridors (Path2Zero) en windmolens (People). |  [Matlab Simulink/  <br> Prometheus + Grafana  / <br> Game Engines (UNREAL / UNITY) / <br> Siemens Simcenter ](https://github.com/robvdw/MATLAB_REGRESSION_LEARNER). 
  *––NLP––* <br> Natuurlijke Taalverwerking | Ontwerpen van FAIR data products die grootschalige taalmodellen *––zoals BERT, BLOOM en ChatGPT––* kunnen benutten voor de analyse van vrije-teksten. |  ["text mining & wrangling" van vrije tekst](https://github.com/robvdw/Decision-Support-Systems-In-Allied-Healthcare) afkomstig van zorgverleners. 
 *––DF––* <br> Data Fabric  | Benutten van Data Science tools voor het creëren van een Data Hub voor IoT  in de vorm van een Digitale data lake. | [Anaconda in combinatie met Jupyter Notebooks](https://github.com/robvdw/Creating-AI-Data-Products-Using-Jupyter-Notebooks).
 
@@ -139,9 +139,9 @@ Er zijn drie verschillende toepassingsgerichte Data Science thema's waarop stude
 
 
 ### Jouw Profiel
-        - 4de-jaars student Creative Media and Game Technologies (CMGT) of vergelijkbaar.
+        - 3de/4de-jaars student Creative Media and Game Technologies (CMGT) of vergelijkbaar.
 
-        - Affiniteit met Gamming en Gaming Technologie zoals Game Engines.
+        - Affiniteit met Gamming en Gaming Technologie denk aan GameEngines zoals Unity of Unreal.
 
         - Vaardig in 3D-modelleren en/of technisch programmeren.
 
