@@ -116,8 +116,7 @@ Het DataLab AI Sustech werkt samen met opdrachtgevers aan data-producten om de d
 Wij vormen een onafhankelijke organisatorische eenheid binnen de Hogeschool Rotterdam, gevestigd op de RDM Campus als Datalab AI SusTech. Onze expertise richt zich op het ontwerpen, bouwen en hosten van geavanceerde digital twins voor duurzame technologieën, met bijdragen aan toegepast onderzoek in AI, logistiek, asset management en circulaire energietransitie binnen het Centre of Expertise HRTech. Bij alles wat we doen, draait het om kennisdeling te stimuleren over het verantwoord toepassen van AI-technologie, inclusief simulatie en optimalisatie van systemen zoals binnenvaart en energie.
 ​
 
-Er zijn drie verschillende toepassingsgerichte Data Science thema's waarop studenten kunnen afstuderen, vanaf september 2026 stage- en afstudeerplaatsen aangeboden aan opleidingen zoals RMI, EAS, IGO, CMI en RBS:<br>
-
+Er zijn drie verschillende toepassingsgerichte Data Science thema's waarop studenten kunnen afstuderen, vanaf september 2026 stage- en afstudeerplaatsen aangeboden<br>
 
 
 | THEMA  | DOEL | Toepassing
@@ -150,7 +149,7 @@ Er zijn drie verschillende toepassingsgerichte Data Science thema's waarop stude
         - Zelfstandig, proactief en een "open cultuur" mindset voor kennisdeling.
 
 
-Wij nodigen alle 4de jaars studenten uit om ervaring opdoen in een groep van enthousiaste, gedreven Data Scientists van het DataLab AI Sustech. 
+Wij nodigen hbo & mbo studenten uit om ervaring opdoen in een groep van enthousiaste, gedreven Data Scientists van het DataLab AI Sustech. 
 
 
 <br><br>
@@ -207,13 +206,13 @@ Ontwikkel een realistische 3D-simulatie met game engines zoals Unity of Unreal E
 
 ### **Jouw Profiel**
 
-- 4e-jaars CMGT met game engine skills (Unity/Unreal) en/of UI/UX/GUI experience.
+- Ben jij hbo sudent  (denk aan CMGT, Toegepaste Informatica of Elecrtotechniek) / mbo student (Software development) met game engine programing skills (Unity/Unreal) en/of UI/UX/GUI #D simulatie experience.
 - Affiniteit met 3D-modelling, data-vis \& duurzame tech.
 - Proactief, open mindset.
 
 ---
 
-Mail [willi@hr.nl](mailto:willi@hr.nl) met subject: **Afstuderen DataLab AI SusTech – PATH2ZERO 3D DT**.
+Mail Menyhért, K. (Kristóf) [mailto:k.menyhert@hr.nl] met subject: **Afstuderen DataLab AI SusTech – PATH2ZERO 3D DT**.
 
 ---
 
