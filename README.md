@@ -114,7 +114,7 @@ Het DataLab AI Sustech werkt samen met opdrachtgevers aan data-producten om de d
 ## **Afstudeer/ Stageplek Thema's**
 
 Wij vormen een onafhankelijke organisatorische eenheid binnen de Hogeschool Rotterdam, gevestigd op de RDM Campus als Datalab AI SusTech. Onze expertise richt zich op het ontwerpen, bouwen en hosten van geavanceerde digital twins voor duurzame technologieën, met bijdragen aan toegepast onderzoek in AI, logistiek, asset management en circulaire energietransitie binnen het Centre of Expertise HRTech. Bij alles wat we doen, draait het om kennisdeling te stimuleren over het verantwoord toepassen van AI-technologie, inclusief simulatie en optimalisatie van systemen zoals binnenvaart en energie.
-​<br>
+​<br><br>
 Er zijn drie verschillende toepassingsgerichte Data Science thema's beschibaar vanaf september 2026. <br>
 
 
@@ -137,7 +137,7 @@ Er zijn drie verschillende toepassingsgerichte Data Science thema's beschibaar v
 
 
 ### Jouw Profiel
-        - 3de/4de-jaars student Creative Media and Game Technologies (CMGT) of vergelijkbaar.
+        - 3de/4de-jaars hbo/mbo student in een technisch domein waar coderen centraal.
 
         - Affiniteit met Gamming en Gaming Technologie denk aan GameEngines zoals Unity of Unreal.
 
