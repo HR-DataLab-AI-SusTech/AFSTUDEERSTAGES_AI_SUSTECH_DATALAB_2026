@@ -114,7 +114,7 @@ Het DataLab AI Sustech werkt samen met opdrachtgevers aan data-producten om de d
 ## **Afstudeer/ Stageplek Thema's**
 
 Wij vormen een onafhankelijke organisatorische eenheid binnen de Hogeschool Rotterdam, gevestigd op de RDM Campus als Datalab AI SusTech. Onze expertise richt zich op het ontwerpen, bouwen en hosten van geavanceerde digital twins voor duurzame technologieën, met bijdragen aan toegepast onderzoek in AI, logistiek, asset management en circulaire energietransitie binnen het Centre of Expertise HRTech. Bij alles wat we doen, draait het om kennisdeling te stimuleren over het verantwoord toepassen van AI-technologie, inclusief simulatie en optimalisatie van systemen zoals binnenvaart en energie.
-​
+​<br>
 Er zijn drie verschillende toepassingsgerichte Data Science thema's beschibaar vanaf september 2026. <br>
 
 
